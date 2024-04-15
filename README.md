@@ -1,4 +1,4 @@
-# game
+# Minigame
 
 A new Flutter project.
 
